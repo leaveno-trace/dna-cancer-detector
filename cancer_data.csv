@@ -1,0 +1,7 @@
+mutation_A,mutation_B,mutation_C,has_cancer
+0,1,0,0
+1,1,1,1
+0,0,1,0
+1,1,0,1
+0,1,1,1
+0,0,0,0
